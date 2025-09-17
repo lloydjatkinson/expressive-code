@@ -32,7 +32,7 @@
     "starlight-links-validator": "^0.14.1",
     "starlight-llms-txt": "^0.3.0",
     "starlight-showcases": "^0.3.0",
-    "typedoc": "^0.25.4",
+    "typedoc": "^0.28.11",
     "typedoc-plugin-markdown": "^4.0.0-next.21",
     "typedoc-plugin-missing-exports": "^2.1.0",
     "typedoc-plugin-rename-defaults": "^0.7.0",
