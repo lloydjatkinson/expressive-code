@@ -15,7 +15,7 @@
     "release-notes": "tsm --require=../scripts/lib/filter-warnings.cjs ./scripts/release-notes.ts"
   },
   "dependencies": {
-    "@astrojs/starlight": "^0.31.0",
+    "@astrojs/starlight": "^0.35.2",
     "@expressive-code/plugin-collapsible-sections": "workspace:^",
     "@expressive-code/plugin-line-numbers": "workspace:^",
     "@shikijs/colorized-brackets": "^2.0.3",
